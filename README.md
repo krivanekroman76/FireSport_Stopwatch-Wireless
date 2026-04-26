@@ -14,15 +14,12 @@ The communication between the units is facilitated by the nRF24L01+PA+LNA module
 - MAX7219 for driving 7-segment displays and 8x8 LED matrix
 - Magnetic switches for stopping the timer
 - Start timing via button press (automatic start via sound may be added)
-![Description of Image 1](photos/image1.jpg)
-![Description of Image 2](photos/image2.jpg)
+
 ## Installation
-To get started, you can find the Arduino code in the [GitHub repository](https://github.com/yourusername/FireSport_Stopwatch-Wireless). The code is well-documented for easy understanding and modification.
-![Description of Image 1](photos/image1.jpg)
-![Description of Image 2](photos/image2.jpg)
+To get started, you can find the Arduino code in the [GitHub repository](https://github.com/SoudruhRomanCZ/FireSport_Stopwatch-Wireless/tree/main/Codes). The code is well-documented for easy understanding and modification.
+![Description of Image 1](photos/diagram2.jpeg)
 Additionally, an article detailing the PCB design and 3D printed parts will be added soon. For ordering and assembly inquiries, please contact me via email.
-![Description of Image 1](photos/image1.jpg)
-![Description of Image 2](photos/image2.jpg)
+
 ## Usage
 This stopwatch can be used for timing fire attack drills and low-level competitions. Please note that it has not yet obtained any precision certification.
 
@@ -33,7 +30,7 @@ Contributions are welcome! You can review the code and suggest changes to optimi
 This project is licensed under the [GPL-3.0 License](https://opensource.org/licenses/GPL-3.0). The code is written in the Arduino IDE, and as per Arduino's guidelines, it is intended to be free and cannot be monetized.
 
 ## Contact
-For questions, feedback, or collaboration inquiries, please reach out to me at [your-email@example.com].
+For questions, feedback, or collaboration inquiries, please reach out to me at [krivanekroman76@gmail.com].
 
 ## Additional Sections
 ### Testing
