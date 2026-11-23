@@ -180,7 +180,7 @@ with BuildPart() as box:
                 if loc[0] > 0: add(right_boss.part)
                 else: add(left_boss.part)
                 
-    # Díry na inzerty ve sloupcích
+    # Díry na inserty ve sloupcích
     with Locations(screw_locs):
         with Locations((0, 0, h_box + overshoot)):
             Cylinder(radius=ins_d/2, height=ins_h + overshoot, align=(Align.CENTER, Align.CENTER, Align.MAX), mode=Mode.SUBTRACT)
